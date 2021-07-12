@@ -1,7 +1,7 @@
 {
-  "name": "countries",
+  "name": "@kuiaski/countries",
   "version": "1.0.0",
-  "description": "Wikipedia Countries info Scrapper",
+  "description": "Retrieve The Wikipedia Countries List using Web Scrapping",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
